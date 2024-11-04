@@ -4,11 +4,11 @@ Este repositório contém materiais educativos sobre PHP Orientado a Objetos, ab
 
 ## Conteúdo
 - [Introdução à OOP](introduction-to-oop.md)
-- [Classes e Objetos](notes/02-classes-and-objects.md)
-- [Herança](notes/03-inheritance.md)
-- [Interfaces e Classes Abstratas](notes/04-interfaces-and-abstract-classes.md)
-- [Polimorfismo](notes/05-polymorphism.md)
-- [OOP no PHP](notes/06-oop-in-php.md)
+- [Classes e Objetos](classes-and-objects.md)
+- [Herança](inheritance.md)
+- [Interfaces e Classes Abstratas](interfaces-and-abstract-classes.md)
+- [Polimorfismo](polymorphism.md)
+- [OOP no PHP](oop-in-php.md)
 
 ## Como usar
 
